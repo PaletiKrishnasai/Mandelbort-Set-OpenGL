@@ -1,1 +1,1 @@
-# Mandelbort-Set---opengl
+# Mandelbort-Set done in opengl
