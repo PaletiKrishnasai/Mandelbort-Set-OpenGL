@@ -72,7 +72,7 @@ void process_input(GLFWwindow * window)
             center_y = -1.0f;
         }
     }
- 
+ //
     if (glfwGetKey(window, GLFW_KEY_LEFT) == GLFW_PRESS)
     {
         center_x = center_x - 0.01f * zoom;
