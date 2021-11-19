@@ -1,4 +1,4 @@
-# Mandelbort-Set done in opengl
+# Mandelbort-Set done in OpenGL
 
 ### Steps to build and run  ( program tested only on Linux-Ubuntu 18.04,20.04 )
 - install the necessary packages- glut,glfw,glm,glu,glew ( Follow an online documentation to install opengl ).
